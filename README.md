@@ -1,5 +1,4 @@
 # Hello!
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -21,7 +20,7 @@
 		    <li>实验二（sy2-1）</li>
 		    <li>实验二（sy2-2）</li>
 		    <li>实验二（sy2-3）</li>
-	      <li>实验二（sy2-4）</li>
+	            <li>实验二（sy2-4）</li>
 	  </ul>
     <hr>
 		<li>实验三</li>
@@ -31,7 +30,7 @@
 		    <li>实验三（sy3-3）</li>
 	            <li>实验三（sy3-4）</li>
                     <li>实验三（sy3-5）</li>
-	           <li>实验三（sy3-6）</li>
+	            <li>实验三（sy3-6）</li>
     </ul>
     <hr>
 		<li>实验四</li>
