@@ -9,8 +9,8 @@
 	<ul type="circle">
 		<li>实验一</li>
 	  <ul type="disc">
-		    <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验一（sy1-1）</a></li>
-		    <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验一（sy1-2）</a></li>
+		    <li><a href="实验一（sy1-1）.html">实验一（sy1-1）</a></li>
+		    <li><a href="实验一（sy1-2）.html">实验一（sy1-2）</a></li>
 		    <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验一（sy1-3）</a></li>
 	      <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验一（sy1-4）</a></li>
 	  </ul>
