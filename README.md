@@ -9,7 +9,7 @@
 	<ul type="circle">
 		<li>实验一</li>
 	  <ul type="disc">
-		    <li><a href = "file:///D:/%E5%A4%A7%E4%B8%89/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%B6%E4%BD%9C/Caption2%203-6.html">实验一（sy1-1）</a></li>
+		    <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验一（sy1-1）</a></li>
 		    <li>实验一（sy1-2）</li>
 		    <li>实验一（sy1-3）</li>
 	      <li>实验一（sy1-4）</li>
