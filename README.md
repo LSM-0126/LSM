@@ -3,7 +3,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>实验</title>
 </head>
 
 <body>
@@ -30,10 +29,10 @@
 		    <li>实验三（sy3-1）</li>
 		    <li>实验三（sy3-2）</li>
 		    <li>实验三（sy3-3）</li>
-	      <li>实验三（sy3-4））</li>
-        <li>实验三（sy3-5）</li>
-	      <li>实验三（sy3-6）</li>
-	  </ul>
+	            <li>实验三（sy3-4）</li>
+                    <li>实验三（sy3-5）</li>
+	           <li>实验三（sy3-6）</li>
+    </ul>
     <hr>
 		<li>实验四</li>
     <ul type="disc">
