@@ -43,7 +43,13 @@
     <ul type="disc">
 		    <li><a href="PS（案例1).psd">PS（案例1）</a></li>
         <li><a href="PS（案例2).psd">PS（案例2）</a></li>
-        <li><a href="PS（案例3).psd">PS（案例3）</a></li>
+        <li><a href="PS（案例3).psd">PS（案例3）</a></li>animate.fla
+	  </ul>
+    <hr>
+		<li>animate</li>
+    <ul type="disc">
+		    <li><a href="animate.fla">animate.fla（案例1）</a></li>
+        <li><a href="animate.gif">animate.gif</a></li>
 	  </ul>
   </ul>
 </body>
