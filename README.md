@@ -1,6 +1,6 @@
 # Hello！
 
-<body>
+
         <audio src="summer.mp3" autoplay="autoplay"></audio>
 	<h1>实验展示</h1>
 	<ul type="circle">
@@ -48,5 +48,3 @@
         <li><a href="animate.gif">animate.gif</a></li>
 	  </ul>
   </ul>
-</body>
-</html>
