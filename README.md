@@ -36,7 +36,7 @@
     <hr>
 		<li>实验四</li>
     <ul type="disc">
-		    <li><a href="D:\大三\网页设计与制作\Caption2 3-6.html">实验四（sy4-1）</a></li>
+		    <li><a href="实验四（sy4-2）.html">实验四（sy4-2）</a></li>
 	  </ul>
     <hr>
 		<li>PS</li>
