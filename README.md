@@ -1,5 +1,17 @@
 # 欢迎来到刘淑敏的个人主页！
 
+<html>
+<head>
+<meta charset="utf-8">
+	<style type="text/css">
+		body{
+                     background-color: #FFFFF0";
+		     }
+		th{
+			font:14px/1.5em"宋体";
+		  }
+	</style>
+</head>
 <body>
         <audio src="summer.mp3" autoplay="autoplay"></audio>
 	<h1>实验展示</h1>
@@ -49,3 +61,4 @@
 	  </ul>
   </ul>
 </body>
+</html>
