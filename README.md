@@ -1,8 +1,6 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>欢迎来到刘淑敏的个人主页</title>
 </head>
 
 <body>
