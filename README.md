@@ -48,7 +48,7 @@
     <hr>
 		<li>animate</li>
     <ul type="disc">
-		    <li><a href="animate.fla">animate.fla（案例1）</a></li>
+		    <li><a href="animate.fla">animate.fla</a></li>
         <li><a href="animate.gif">animate.gif</a></li>
 	  </ul>
   </ul>
