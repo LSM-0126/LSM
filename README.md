@@ -1,6 +1,6 @@
 
 <html lang="en">
-
+  <p > Copyright &copy; 2022.Company name All rights reserved.<br/>More Templates 刘淑敏 - Collect from <a href="https://space.bilibili.com/266664645" title="网页课程设计" target="_blank">b站</a></p>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
