@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+# 欢迎来到刘淑敏的个人主页！
+
 <html lang="en">
 
 <head>
@@ -17,7 +18,7 @@
 </head>
 
 <body>
-    <div class="shell">
+  
 		
 <!--  开篇页 div -->
         <div class="shell-top">
@@ -296,7 +297,7 @@
                     </div>
                </section>
 <!-- End 时光邮箱 Section -->
-        </div>
+     </div>
 			
 <!-- footer Section -->     
         <footer class="shell-main-footer">
