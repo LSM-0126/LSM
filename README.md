@@ -7,13 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>小刘的时光杂货铺</title>
 
-	<link rel="stylesheet" href=".\css\bootstrap.min.css" >
-    <link rel="stylesheet" href=".\css\bootstrap-icons.css"  >
-	<link rel="stylesheet" href=".\css/boxicons.min.css" >
-    <link rel="stylesheet" href=".\css\index.css">
-    <link rel="stylesheet" href=".\css\style.css">
-	<link rel="stylesheet" href=".\css\cban.css">
-	<link rel="stylesheet" href=".\css\contact.css">
+	<link rel="stylesheet" href=".MyWeb\css\bootstrap.min.css" >
+    <link rel="stylesheet" href=".MyWeb\css\bootstrap-icons.css"  >
+	<link rel="stylesheet" href=".MyWeb\css/boxicons.min.css" >
+    <link rel="stylesheet" href=".MyWeb\css\index.css">
+    <link rel="stylesheet" href=".MyWeb\css\style.css">
+	<link rel="stylesheet" href=".MyWeb\css\cban.css">
+	<link rel="stylesheet" href=".MyWeb\css\contact.css">
 </head>
 
 <body>
@@ -328,8 +328,8 @@
 </body>
 
 <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
-<script src=".\js\cban.js" type="text/javascript"></script>
-<script src=".\js\animation.js" type="text/javascript"></script>
+<script src=".MyWeb\js\cban.js" type="text/javascript"></script>
+<script src=".MyWeb\js\animation.js" type="text/javascript"></script>
 <script>
 	  function videoUrl(hmmmmmm){
                 document.getElementById("slider").src = hmmmmmm;}	
