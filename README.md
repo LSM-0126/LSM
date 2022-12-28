@@ -9,7 +9,7 @@
 
 	<link rel="stylesheet" href=".MyWeb\css\bootstrap.min.css" >
     <link rel="stylesheet" href=".MyWeb\css\bootstrap-icons.css"  >
-	<link rel="stylesheet" href=".MyWeb\css/boxicons.min.css" >
+	<link rel="stylesheet" href=".MyWeb\css\boxicons.min.css" >
     <link rel="stylesheet" href=".MyWeb\css\index.css">
     <link rel="stylesheet" href=".MyWeb\css\style.css">
 	<link rel="stylesheet" href=".MyWeb\css\cban.css">
