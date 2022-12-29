@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>开关灯</title>
+<script type="text/javascript">
+	function on(){
+		var img=document.getElementById('img');
+		img.src="灯泡（亮）.png";	
+	}	
+	function off(){
+		var img=document.getElementById('img');
+		img.src="灯泡（灰）.png";	
+	}
+</script>
+</head>
+
+<body>
+	<input type="button" onclick="on()" value="开灯">
+	<img id="img" src="灯泡（灰）.png" alt="">
+	<input type="button" onclick="off()" value="关灯">
+</body>
+</html>
